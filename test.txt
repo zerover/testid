@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbb
 cccccccccccccccccc
 wwwwwwwwwwwwwwwwww
+=======
+aaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbb
+ccccccccccccccc
+666666666666666
+>>>>>>> test
